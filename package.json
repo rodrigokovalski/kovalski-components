@@ -71,5 +71,18 @@
     "prop-types": "^15.8.1",
     "storybook": "^7.4.0",
     "webpack": "^5.88.2"
-  }
+  },
+  "description": "Componentes criados para estudo e utilização em projetos pessoais",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigokovalski/kovalski-components.git"
+  },
+  "keywords": ["Kovalski", "Components"],
+  "author": "rodrigokovalski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigokovalski/kovalski-components/issues"
+  },
+  "homepage": "https://github.com/rodrigokovalski/kovalski-components#readme"
 }
