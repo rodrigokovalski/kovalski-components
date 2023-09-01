@@ -72,7 +72,7 @@
     "webpack": "^5.88.2"
   },
   "description": "Componentes criados para estudo e utilização em projetos pessoais",
-  "main": "index.ts",
+  "main": "src/index.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rodrigokovalski/kovalski-components.git"
