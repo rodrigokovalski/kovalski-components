@@ -15,6 +15,7 @@ const meta: Meta<typeof Modal> = {
            description: ''
        }
     },
+    tags: ['autodocs'],
 };
 
 export default meta;
